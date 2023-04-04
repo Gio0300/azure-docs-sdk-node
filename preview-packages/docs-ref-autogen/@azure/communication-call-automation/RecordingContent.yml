@@ -1,0 +1,17 @@
+### YamlMime:TSEnum
+name: RecordingContent
+uid: '@azure/communication-call-automation.RecordingContent'
+package: '@azure/communication-call-automation'
+summary: The content type of a call recording.
+fullName: RecordingContent
+remarks: ''
+isDeprecated: false
+fields:
+  - name: Audio
+    uid: '@azure/communication-call-automation.RecordingContent.Audio'
+    package: '@azure/communication-call-automation'
+    summary: ''
+  - name: AudioVideo
+    uid: '@azure/communication-call-automation.RecordingContent.AudioVideo'
+    package: '@azure/communication-call-automation'
+    summary: ''

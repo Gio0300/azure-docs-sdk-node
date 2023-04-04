@@ -1,0 +1,21 @@
+### YamlMime:TSEnum
+name: RecordingFormat
+uid: '@azure/communication-call-automation.RecordingFormat'
+package: '@azure/communication-call-automation'
+summary: The format type of a call recording.
+fullName: RecordingFormat
+remarks: ''
+isDeprecated: false
+fields:
+  - name: Mp3
+    uid: '@azure/communication-call-automation.RecordingFormat.Mp3'
+    package: '@azure/communication-call-automation'
+    summary: ''
+  - name: Mp4
+    uid: '@azure/communication-call-automation.RecordingFormat.Mp4'
+    package: '@azure/communication-call-automation'
+    summary: ''
+  - name: Wav
+    uid: '@azure/communication-call-automation.RecordingFormat.Wav'
+    package: '@azure/communication-call-automation'
+    summary: ''
