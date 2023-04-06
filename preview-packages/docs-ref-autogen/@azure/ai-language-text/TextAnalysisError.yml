@@ -13,7 +13,7 @@ properties:
     package: '@azure/ai-language-text'
     summary: >-
       A code describing the kind of error produced. See
-      [KnownTextAnalysisErrorCode](xref:835).
+      [KnownTextAnalysisErrorCode](xref:815).
     fullName: code
     remarks: ''
     isDeprecated: false

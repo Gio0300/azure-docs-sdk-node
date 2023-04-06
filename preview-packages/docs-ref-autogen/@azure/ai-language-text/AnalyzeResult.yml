@@ -8,7 +8,6 @@ remarks: ''
 isDeprecated: false
 syntax: |
   type AnalyzeResult<ActionName> = {
-    DynamicClassification: DynamicClassificationResult[],
     EntityLinking: EntityLinkingResult[],
     EntityRecognition: EntityRecognitionResult[],
     KeyPhraseExtraction: KeyPhraseExtractionResult[],

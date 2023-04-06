@@ -1,0 +1,17 @@
+### YamlMime:TSEnum
+name: RecordingChannel
+uid: '@azure/communication-call-automation.RecordingChannel'
+package: '@azure/communication-call-automation'
+summary: The channel type of a call recording.
+fullName: RecordingChannel
+remarks: ''
+isDeprecated: false
+fields:
+  - name: Mixed
+    uid: '@azure/communication-call-automation.RecordingChannel.Mixed'
+    package: '@azure/communication-call-automation'
+    summary: ''
+  - name: Unmixed
+    uid: '@azure/communication-call-automation.RecordingChannel.Unmixed'
+    package: '@azure/communication-call-automation'
+    summary: ''

@@ -8,7 +8,6 @@ remarks: ''
 isDeprecated: false
 syntax: |
   type AnalyzeActionParameters<ActionName> = {
-    DynamicClassification: DynamicClassificationAction,
     EntityLinking: EntityLinkingAction,
     EntityRecognition: EntityRecognitionAction,
     KeyPhraseExtraction: KeyPhraseExtractionAction,

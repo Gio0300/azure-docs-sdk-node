@@ -1,0 +1,34 @@
+### YamlMime:TSType
+name: GroupCallLocator
+uid: '@azure/communication-call-automation.GroupCallLocator'
+package: '@azure/communication-call-automation'
+summary: The locator used for joining or taking action on a group call.
+fullName: GroupCallLocator
+remarks: ''
+isDeprecated: false
+type: interface
+properties:
+  - name: id
+    uid: '@azure/communication-call-automation.GroupCallLocator.id'
+    package: '@azure/communication-call-automation'
+    summary: ''
+    fullName: id
+    remarks: ''
+    isDeprecated: false
+    syntax:
+      content: 'id: string'
+      return:
+        description: ''
+        type: string
+  - name: kind
+    uid: '@azure/communication-call-automation.GroupCallLocator.kind'
+    package: '@azure/communication-call-automation'
+    summary: ''
+    fullName: kind
+    remarks: ''
+    isDeprecated: false
+    syntax:
+      content: 'kind?: "groupCallLocator"'
+      return:
+        description: ''
+        type: '"groupCallLocator"'
